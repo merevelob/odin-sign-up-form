@@ -3,7 +3,7 @@ The Odin Project | Full Stack JavaScript | Intermediate HTML and CSS Course | Fo
 
 Credits:
 
-* Photo by <a href="https://unsplash.com/@jeremybishop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeremy Bishop</a> on <a href="https://unsplash.com/images/nature/mountain?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Photo by <a href="https://unsplash.com/@eberhardgross?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">eberhard 🖐 grossgasteiger</a> on <a href="https://unsplash.com/photos/6fCfkt11-eQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 * <a href="https://cdn.statically.io/gh/TheOdinProject/theodinproject/efdc2888072f409e687d31dc580595dbe4fe0ff4/app/assets/fonts/Norse-Bold.otf">Norse Bold font</a>
 
