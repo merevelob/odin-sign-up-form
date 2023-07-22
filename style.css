@@ -135,6 +135,7 @@ form > * {
     min-width: 30%;
     display: flex;
     flex-direction: column;
+    /* background-color: red; */
 }
 
 .fields label {
@@ -157,6 +158,25 @@ form > * {
     border: 1px solid darkblue;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     outline: none;
+}
+
+/*Errors*/
+/*Invalid inputs*/
+.fields input.error {
+    border: 1px solid darkred;
+    /* outline: none; */
+}
+
+/*Password error*/
+.errorCont {
+    /* background-color: purple; */
+    height: 0.75rem;
+    width: 100%;
+    margin-top: 2px;
+    font-size: x-small;
+    color: darkred;
+    display: flex;
+    align-items: end;
 }
 
 /**/
