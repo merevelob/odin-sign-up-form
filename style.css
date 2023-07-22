@@ -31,7 +31,6 @@ html {
     width: 100vw;
     background-color: silver;
     display: flex;
-    /* gap: 2rem; */
 }
 
 /*Sidebar*/
@@ -49,7 +48,6 @@ html {
 .logoCont {
     height: 6rem;
     width: 100%;
-    /* background-color: rgba(0, 0, 0, 0.4); */
     margin: auto;
     display: flex;
     justify-content: center;
@@ -90,12 +88,10 @@ html {
     padding: 0.5rem 0;
     display: flex;
     flex-direction: column;
-    /* background-color: rgba(255, 0, 0, 0.568); */
 }
 
 form {
     margin: auto;
-    /* background-color: green; */
 }
 
 form > * {
@@ -135,7 +131,6 @@ form > * {
     min-width: 30%;
     display: flex;
     flex-direction: column;
-    /* background-color: red; */
 }
 
 .fields label {
@@ -160,16 +155,12 @@ form > * {
     outline: none;
 }
 
-/*Errors*/
-/*Invalid inputs*/
+/*Password error*/
 .fields input.error {
     border: 1px solid darkred;
-    /* outline: none; */
 }
 
-/*Password error*/
 .errorCont {
-    /* background-color: purple; */
     height: 0.75rem;
     width: 100%;
     margin-top: 2px;
